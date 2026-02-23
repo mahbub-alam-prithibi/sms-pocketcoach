@@ -1,4 +1,4 @@
-# Science Master Portal
+# Pocket Coach Portal
 
 A comprehensive web portal for science education and management with student information system, user authentication, and batch management.
 
@@ -202,3 +202,4 @@ The backend API will be available at `http://localhost:3000` (or the port specif
 ## License
 
 This project is licensed under the MIT License.
+
